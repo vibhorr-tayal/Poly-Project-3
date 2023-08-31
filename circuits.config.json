@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gates",
+    "protocol": "groth16",
+    "circuit": "Gates/circuit.circom",
+    "input": "Gates/input.json",
+    "wasm": "Gates/out/circuit.wasm",
+    "zkey": "Gates/out/Gates.zkey",
+    "vkey": "Gates/out/Gates.vkey",
+    "r1cs": "Gates/out/Gates.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
